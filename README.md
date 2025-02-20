@@ -1,5 +1,5 @@
 ## Hey, I'm Katia! 👋
-#### I'm a Full-Stack Developer at [Morgan Stanley](https://www.morganstanley.com/);<br>
+#### I'm a Full-Stack Developer at [Morgan Stanley](https://www.morganstanley.com/)<br>
 I use daily: `.java`, `.js`, `.html`, `.css`, `.jsx`
 
 ## What I'm working on
